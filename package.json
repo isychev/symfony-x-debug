@@ -1,6 +1,6 @@
 {
   "name": "symfony-x-debug",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "client js library for display link to profile xhr request",
   "main": "index.js",
   "scripts": {
